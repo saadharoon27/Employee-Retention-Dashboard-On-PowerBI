@@ -92,14 +92,14 @@ The goal of this Power BI project is to analyse and identify the reasons for emp
 
 - 1.	**The highest attrition rate is during the first few years of job.**
   - **Observation:** The highest number of employees who left the company only worked for _less than 2 years_, **hence proving the hypothesis correct**.
-- 2.	**Attrition is gender neutral.**
+- 2.	**Attrition is gender-neutral.**
   - **Observation:** Attrition is not gender neutral as there is almost _double the number of male employees who left the job (150), compared to female (87)_. **Proving the hypothesis wrong**.
 - 3.	**Job Payee has a strong influence in employee attrition.**
   - **Observation:** Jobs with the lowest pay, i.e., _under 5K_, sees the _highest attrition rates (163)_. **Proving the hypothesis correct**.
 
 ## Business Suggestions
-- 1.	To decrease attrition within two years, the company should focus on a strong onboarding process, career development opportunities, recognition programs, work-life balance, and feedback. These strategies create a positive work environment, boost employee satisfaction, and foster long-term commitment to the company.
+- 1.	To decrease attrition within two years, the company should focus on a _strong onboarding process, career development opportunities, recognition programs, work-life balance,_ and _feedback_. These strategies create a _positive work environment, boost employee satisfaction,_ and _foster long-term commitment_ to the company.
 
-- 2.	To decrease the attrition rate of employees earning less than 15K, the company should implement targeted strategies. Offer skill development opportunities and clear career paths to encourage growth within the organization. Recognize and appreciate their efforts through regular feedback and acknowledgment programs. Organize team-building events and create a positive work environment. By adopting these measures, the company can create a supportive workplace, and reduce attrition among lower-paid employees.
+- 2. To decrease the attrition rate of employees earning less than ***15K***, the company should implement targeted strategies. Offer ***skill development opportunities*** and clear ***career paths*** to encourage growth within the organization. Recognize and appreciate their efforts through regular ***feedback*** and acknowledgment programs. Organize ***team-building events*** and create a ***positive work environment***. By adopting these measures, the company can create a ***supportive workplace***, and reduce attrition among ***lower-paid employees***.
 
-- 3.	To reduce attrition in complex job roles (lab technicians, research scientists, sales executives), the company should focus on building career paths, learning opportunities, competitive compensation, work-life balance, recognition, engagement, and communication. Create a supportive atmosphere to improve satisfaction and retention.
+- 3. To reduce attrition in ***complex job roles*** (*lab technicians*, *research scientists*, *sales executives*), the company should focus on building ***career paths***, ***learning opportunities***, competitive ***compensation***, ***work-life balance***, ***recognition***, ***engagement***, and ***communication***. Create a ***supportive atmosphere*** to improve ***satisfaction*** and retention.
