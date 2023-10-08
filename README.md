@@ -10,6 +10,8 @@ _**Analyzing Employee Attrition: Power BI Insights**_
 - [Project Scope](#project-scope)
 - [Data Source](#data-source)
 - [Selection Of KPIs](#selection-of-kpis)
+- [Quick Glance At The Dashboard](#quick-glance-at-the-dashboard)
+- 
 
 ## Project Scope
 The goal of this Power BI project is to analyse and identify the reasons for employee attrition within the organization. Employee attrition refers to the process of employees leaving the company voluntarily or involuntarily. By leveraging Power BI's data visualization capabilities, the project aims to provide valuable insights into the factors influencing attrition, enabling informed decision-making and retention strategies
@@ -26,4 +28,5 @@ The goal of this Power BI project is to analyse and identify the reasons for emp
 - 6.	**Job Role:** Which _job roles_ have the highest attrition rates, and are they more demanding jobs.
 - 7.	**Company Years:** _Hypothesis:_ The number of years of experience with the company is inversely proportional to the likeliness of the employee leaving the firm.
 
-
+## Quick Glance At The Dashboard
+![dashboard](Assets/Glance.png)
