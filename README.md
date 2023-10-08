@@ -14,6 +14,8 @@ _**Analyzing Employee Attrition: Power BI Insights**_
 - [Quick Glance At The Dashboard](#quick-glance-at-the-dashboard)
 - [Method](#method)
 - [Steps in Data Cleaning](steps-in-data-cleaning)
+- [Hypothesis And Observations](#hypothesis-and-observations)
+- [Business Suggestions](#business-suggestions)
 
 ## Project Scope
 The goal of this Power BI project is to analyse and identify the reasons for employee attrition within the organization. Employee attrition refers to the process of employees leaving the company voluntarily or involuntarily. By leveraging Power BI's data visualization capabilities, the project aims to provide valuable insights into the factors influencing attrition, enabling informed decision-making and retention strategies
@@ -86,3 +88,18 @@ The goal of this Power BI project is to analyse and identify the reasons for emp
 - 4.	Changed the column types of all column from _text_ to their _accurate datatype_.
 - 5.	Created a custom column ‘_AttritionCount’_ to convert _‘Attrition’_ column into a _numeric column_ for analysis.
 
+## Hypothesis And Observations
+
+- 1.	**The highest attrition rate is during the first few years of job.**
+  - **Observation:** The highest number of employees who left the company only worked for _less than 2 years_, **hence proving the hypothesis correct**.
+- 2.	**Attrition is gender neutral.**
+  - **Observation:** Attrition is not gender neutral as there is almost _double the number of male employees who left the job (150), compared to female (87)_. **Proving the hypothesis wrong**.
+- 3.	**Job Payee has a strong influence in employee attrition.**
+  - **Observation:** Jobs with the lowest pay, i.e., _under 5K_, sees the _highest attrition rates (163)_. **Proving the hypothesis correct**.
+
+## Business Suggestions
+- 1.	To decrease attrition within two years, the company should focus on a strong onboarding process, career development opportunities, recognition programs, work-life balance, and feedback. These strategies create a positive work environment, boost employee satisfaction, and foster long-term commitment to the company.
+
+- 2.	To decrease the attrition rate of employees earning less than 15K, the company should implement targeted strategies. Offer skill development opportunities and clear career paths to encourage growth within the organization. Recognize and appreciate their efforts through regular feedback and acknowledgment programs. Organize team-building events and create a positive work environment. By adopting these measures, the company can create a supportive workplace, and reduce attrition among lower-paid employees.
+
+- 3.	To reduce attrition in complex job roles (lab technicians, research scientists, sales executives), the company should focus on building career paths, learning opportunities, competitive compensation, work-life balance, recognition, engagement, and communication. Create a supportive atmosphere to improve satisfaction and retention.
